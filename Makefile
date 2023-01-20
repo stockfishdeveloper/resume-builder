@@ -1,4 +1,4 @@
-all: pdf pdf-extended
+all: pdf
 
 pdf: resume.pdf
 resume.pdf: style_chmduquesne.tex resume.md
