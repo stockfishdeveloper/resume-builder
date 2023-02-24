@@ -3,24 +3,23 @@ David Cimbalista
 
 ----
 
->  Software engineer, IT manager, systems analyst
+>  Software Engineer, IT Manager, Systems Analyst
 
 ----
 
 Education
 ---------
 
-:   **BS, Computer Science**; Lewis University (Romeoville, IL)
+**BS, Computer Science**; Lewis University (Romeoville, IL)
 
-    *Software engineering excellence, with a focus on mathematics*
+    Software engineering excellence, with a focus on mathematics
 
-2007-2010
-:   **AAS, Applications and Tech Support Specialist**; College of DuPage (Glen Elynn, IL)
+**AAS, Applications and Tech Support Specialist**; College of DuPage (Glen Elynn, IL)
 
 Experience
 ----------
 
-**Sr. Analyst, PowerPlan Inc.:**
+**Sr. Analyst, PowerPlan Inc.**
 
 Triage and deploy SaaS and on-premise financial software
 solutions to major energy companies. Work with clients to make
@@ -55,23 +54,23 @@ Programming Languages
 
 :   **SQL:** I've used SQL in most projects I've worked on - everything from simple API facilitation to comparing sets of complex data in an efficient manner.
 
-:   **C++:** My favorite side project was created with C++ - a Chess engine that can beat all but the very strongest human players: [ref]: [https://github.com/githubuser/superlongprojectname](https://github.com/stockfishdeveloper/C---Bitboard-Chess-Engine)
+:   **C++:** My favorite side project was created with C++ - a Chess engine that can beat all but the very strongest human players: [C++ Chess Engine](https://github.com/stockfishdeveloper/C---Bitboard-Chess-Engine)
 
 :   Basic knowledge of **Python**, **Assembly**, **C#**
 
 About Me
 ----------------------------------------
 
+* Led a team of 10 developers at Home Depot in an internal competition and won with an app using AI to identify products on sight
+
+* Completed the Home Depot Software Engineering Internship
+
 * Spoken Languages:
 
      * English (native speaker)
      * Intermediate-level Polish
 
-* Led a team of 10 developers at Home Depot in an internal competition and won with an app using AI to identify products on sight
-
-* Completed the Home Depot Software Engineering Internship
-
 ----
 
-> <cimbalistad@gmail.com> • (630) 390-8526
+> <cimbalistad@gmail.com> • (630) 390-8526 • 
 > Location - Choteau MT, USA
