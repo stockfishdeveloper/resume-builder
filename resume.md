@@ -38,6 +38,10 @@ Freed up employee bandwidth through automation to allow for
 increased productivity. Work with multiple levels of leadership to
 ensure all issues are addressed and followed through resolution.
 
+**Lead Developer, SoundTrak Technologies**
+
+Create apps and other software for startup I cofounded. Core responsibilities include UI design, backend/database engineering, marketing, network administration, and security. Java, SQL, PHP among many languages used on a daily basis.
+
 Technical Experience
 --------------------
 
